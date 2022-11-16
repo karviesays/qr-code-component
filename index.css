@@ -61,6 +61,7 @@ body {
 @media (min-width: 56rem) {
   .qr__card {
     max-width: 20.25rem;
+    margin-top: 9.8rem;
   }
   .qr__text p {
     padding: 0 1.3rem;
