@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://karviesays.github.io/qr-code-component/)
 
 ## My process
 
@@ -36,7 +36,7 @@ I want to focus more on basic designing.
 
 ### Useful resources
 
-- [Example resource 1](https://www.scrimba.com) - One of the best resources when it comes learning fundamentals of everything you need to know.
+- [Resource 1](https://www.scrimba.com) - One of the best resources when it comes learning fundamentals of everything you need to know.
 
 ## Author
 
